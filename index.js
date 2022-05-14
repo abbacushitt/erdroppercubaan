@@ -243,7 +243,7 @@ const addReff = (reff, token) => new Promise((resolve, reject) => {
     //     process.exit(0);
     // }
 
-    const reff = 'CDNQTABP';
+    const reff = 'BY74409T';
 
     if (!reff) {
         console.log('Harap masukan kode refferal')
